@@ -1,0 +1,8 @@
+{
+  "name": "capstone",
+  "app_id": "e5a45a76",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
